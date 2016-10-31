@@ -1,0 +1,7 @@
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\bin\Debug\SimpletonUnitTestFramework.exe
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\bin\Debug\SimpletonUnitTestFramework.pdb
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\obj\x86\Debug\SimpletonUnitTestFramework.MainForm.resources
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\obj\x86\Debug\SimpletonUnitTestFramework.csproj.GenerateResource.Cache
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\obj\x86\Debug\SimpletonUnitTestFramework.exe
+C:\Users\michael_hyunh\Documents\SharpDevelop Projects\SimpletonUnitTestFramework\SimpletonUnitTestFramework\obj\x86\Debug\SimpletonUnitTestFramework.pdb
